@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<astronomy>
+    <planet Id="1" name="Jupiter">
+        <satellite tag2ID="001">
+            <name>Metis</name>
+            <group>Inner</group>
+            <magnitude>10.5</magnitude>
+            <diameter>45km</diameter>
+            <characteristics>
+                <characteristic>Inclination = 2.226</characteristic>
+                <characteristic>Eccentricity = 0.0077</characteristic>
+            </characteristics>
+            <discoverer>Synnott</discoverer>
+            <year>1979</year>
+        </satellite>
+    </planet>
+</astronomy>
